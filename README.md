@@ -10,4 +10,4 @@
   <p>
      Thanks to the father of Fuzzy Lotfi A. Zadeh
   </p>
-<img src="logo.png" alt="logo" width="200" height="auto" />
+<img src="lotfi-zadeh-doodle-header.webp" alt="logo" width="200" height="auto" />
